@@ -23,7 +23,7 @@
   <!-- NAVBAR -->
   <nav class="navbar navbar-expand-lg navbar-light bg-blue shadow-sm">
     <div class="container">
-      <a class="navbar-brand text-white fw-bold" href="#">HOMECARE</a>
+      <a class="navbar-brand text-white fw-bold" href="{{route('dashboard')}}">HAYATICARE</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -112,7 +112,7 @@
               <h5 class="card-title fw-bold">Caregiver</h5>
               <p class="card-text">Pendamping aktivitas harian untuk pasien atau lansia.</p>
               <p class="fw-bold text-primary">Rp. 0</p>
-              <a href="#" class="btn btn-primary btn-sm">Detail</a>
+              <a href="{{route('views/caregiver')}}" class="btn btn-primary btn-sm">Detail</a>
             </div>
           </div>
         </div>
@@ -124,7 +124,7 @@
               <h5 class="card-title fw-bold">Babysitter</h5>
               <p class="card-text">Tenaga profesional untuk menjaga dan merawat anak Anda.</p>
               <p class="fw-bold text-primary">Rp. 0</p>
-              <a href="#" class="btn btn-primary btn-sm">Detail</a>
+              <a href="{{route('views/babysitter')}}" class="btn btn-primary btn-sm">Detail</a>
             </div>
           </div>
         </div>

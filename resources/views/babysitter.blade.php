@@ -46,8 +46,9 @@
           <img src="{{ asset('images/hero.jpg') }}" alt="Homecare" class="img-fluid rounded-20 shadow hero-img">
         </div>
         <div class="col-lg-6 order-lg-1">
-            <h1 class="display-4 fw-bold mb-3 text-black" >HOME CARE</h1>
-            <p class="lead mb-4 text-black text-justify">Kami percaya, perawatan terbaik adalah perawatan yang diberikan di tempat yang paling nyaman: rumah Anda sendiri. Kami hadir memberikan layanan Home Care profesional yang mengutamakan kenyamanan, keselamatan, dan ketulusan dalam setiap layanan.</p>
+            <h1 class="display-4 fw-bold mb-3 text-black" >BABYSITTER</h1>
+            <p class="lead mb-4 text-black text-justify">Menemukan pengasuh anak yang tepat bukanlah perkara mudah. Anda membutuhkan seseorang yang bukan hanya mampu merawat, tapi juga memberikan rasa aman, nyaman, dan kasih sayang seperti keluarga sendiri.
+kami hadir memberikan layanan Baby Sitter profesional yang telah terlatih, berpengalaman, dan memiliki pendekatan personal dalam merawat si kecil.</p>
             <div class="mb-4">
             <span class="badge bg-success me-3 px-3 py-2">Cepat</span>
             <span class="badge bg-primary me-3 px-3 py-2">Legal</span>
@@ -60,62 +61,78 @@
     </div>
   </section>
 
-  <!-- SECTION LAYANAN HOME CARE -->
-  <section class="py-5" id="layanan-homecare" style="border-top: 2px solid #ddd;">
-    <div class="container">
-      <h3 class="fw-bold section-title mb-4">LAYANAN HOME CARE</h3>
-      <div class="row g-4">
-        <!-- Rawat Medis -->
-        <div class="col-md-6 col-lg-3">
-          <div class="card shadow-sm border-0 rounded-20 h-100">
-            <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Rawat Medis">
-            <div class="card-body text-center">
-              <h5 class="card-title fw-bold">Home Care Lansia</h5>
-              <p class="card-text">Perawatan harian, pendampingan aktivitas, terapi ringan.</p>
-              <p class="fw-bold text-primary">Rp. 0</p>
-              <a href="#" class="btn btn-primary btn-sm">Pesan Sekarang</a>
-            </div>
+<!-- SECTION MENGAPA MEMILIH BABY SITTER KAMI -->
+<section class="py-5" id="mengapa-babysitter">
+  <div class="container">
+    <div class="bg-white rounded-20 shadow-sm p-4">
+      <h3 class="fw-bold text-center section-title mb-4">Mengapa Memilih Baby Sitter Kami</h3>
+      <ul class="fs-5" style="list-style: disc; padding-left: 1.3em;">
+        <li><b>Seleksi Ketat & Pelatihan Profesional:</b> Semua babysitter kami telah melalui proses seleksi dan pelatihan khusus.</li>
+        <li><b>Bersertifikat & Berpengalaman:</b> Memiliki sertifikat dan pengalaman dalam pengasuhan anak.</li>
+        <li><b>Pendekatan Ramah Anak & Berbasis Kasih Sayang:</b> Mengutamakan kenyamanan dan kebahagiaan anak.</li>
+        <li><b>Konsultasi Gratis untuk Memilih Baby Sitter Sesuai Kebutuhan:</b> Kami bantu Anda memilih yang paling tepat.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION LAYANAN BABY SITTER KAMI -->
+<section class="py-5" id="layanan-babysitter" style="border-top: 2px solid #ddd;">
+  <div class="container">
+    <h3 class="fw-bold section-title mb-4">LAYANAN BABY SITTER</h3>
+    <div class="row g-4">
+      <!-- Baby Sitter Harian -->
+      <div class="col-md-6 col-lg-3">
+        <div class="card shadow-sm border-0 rounded-20 h-100">
+          <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Baby Sitter Harian">
+          <div class="card-body text-center">
+            <h5 class="card-title fw-bold">Baby Sitter Harian/Mingguan/Bulanan</h5>
+            <p class="card-text">Pilihan layanan sesuai kebutuhan keluarga Anda.</p>
+            <p class="fw-bold text-primary">Rp. 0</p>
+            <a href="#kontak" class="btn btn-primary btn-sm">Pesan Sekarang</a>
           </div>
         </div>
-        <!-- Rawat Orang Sakit -->
-        <div class="col-md-6 col-lg-3">
-          <div class="card shadow-sm border-0 rounded-20 h-100">
-            <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Rawat Orang Sakit">
-            <div class="card-body text-center">
-              <h5 class="card-title fw-bold">Perawatan Pasca Rawat Inap</h5>
-              <p class="card-text">Perawatan luka, rehabilitasi ringan, pengawasan kesehatan.</p>
-              <p class="fw-bold text-primary">Rp. 0</p>
-              <a href="#" class="btn btn-primary btn-sm">Pesan Sekarang</a>
-            </div>
+      </div>
+      <!-- Baby Sitter Bayi Baru Lahir -->
+      <div class="col-md-6 col-lg-3">
+        <div class="card shadow-sm border-0 rounded-20 h-100">
+          <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Baby Sitter Bayi Baru Lahir">
+          <div class="card-body text-center">
+            <h5 class="card-title fw-bold">Baby Sitter Bayi Baru Lahir - Balita</h5>
+            <p class="card-text">Pengasuhan dari newborn sampai balita.</p>
+            <p class="fw-bold text-primary">Rp. 0</p>
+            <a href="#kontak" class="btn btn-primary btn-sm">Pesan Sekarang</a>
           </div>
         </div>
-        <!-- Rawat Jaga di RS -->
-        <div class="col-md-6 col-lg-3">
-          <div class="card shadow-sm border-0 rounded-20 h-100">
-            <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Rawat Jaga di RS">
-            <div class="card-body text-center">
-              <h5 class="card-title fw-bold">Home Care Disabilitas</h5>
-              <p class="card-text">endampingan aktivitas, terapi, dan dukungan emosional.</p>
-              <p class="fw-bold text-primary">Rp. 0</p>
-              <a href="#" class="btn btn-primary btn-sm">Pesan Sekarang</a>
-            </div>
+      </div>
+      <!-- Baby Sitter Stimulasi & Edukasi -->
+      <div class="col-md-6 col-lg-3">
+        <div class="card shadow-sm border-0 rounded-20 h-100">
+          <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Stimulasi & Edukasi Anak">
+          <div class="card-body text-center">
+            <h5 class="card-title fw-bold">Stimulasi & Edukasi Anak</h5>
+            <p class="card-text">Pendampingan stimulasi & edukasi untuk tumbuh kembang optimal.</p>
+            <p class="fw-bold text-primary">Rp. 0</p>
+            <a href="#kontak" class="btn btn-primary btn-sm">Pesan Sekarang</a>
           </div>
         </div>
-        <!-- Rawat Lansia -->
-        <div class="col-md-6 col-lg-3">
-          <div class="card shadow-sm border-0 rounded-20 h-100">
-            <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Rawat Lansia">
-            <div class="card-body text-center">
-              <h5 class="card-title fw-bold">Home Visit oleh Tenaga Medis</h5>
-              <p class="card-text">Dokter, perawat, atau fisioterapis yang datang ke rumah anda.</p>
-              <p class="fw-bold text-primary">Rp. 0</p>
-              <a href="#" class="btn btn-primary btn-sm">Pesan Sekarang</a>
-            </div>
+      </div>
+      <!-- Baby Sitter Kebutuhan Khusus -->
+      <div class="col-md-6 col-lg-3">
+        <div class="card shadow-sm border-0 rounded-20 h-100">
+          <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Baby Sitter Kebutuhan Khusus">
+          <div class="card-body text-center">
+            <h5 class="card-title fw-bold">Baby Sitter Kebutuhan Khusus</h5>
+            <p class="card-text">Untuk autisme, disabilitas, dan kebutuhan khusus lainnya.</p>
+            <p class="fw-bold text-primary">Rp. 0</p>
+            <a href="#kontak" class="btn btn-primary btn-sm">Pesan Sekarang</a>
           </div>
         </div>
       </div>
     </div>
-  </section>
+  </div>
+</section>
+
 
   <!-- SECTION KONTAK KAMI -->
   <section class="py-5" id="kontak" style="border-top: 2px solid #ddd;">
