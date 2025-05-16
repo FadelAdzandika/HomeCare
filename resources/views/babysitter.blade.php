@@ -205,10 +205,9 @@ kami hadir memberikan layanan Baby Sitter profesional yang telah terlatih, berpe
                 window.open(whatsappWebURL, '_blank');
             }
         </script>
-
-              </div>
-          </div>
-    </section>
+      </div>
+    </div>
+  </section>
 
   <!-- FOOTER -->
   <footer class="bg-blue text-white py-5">
