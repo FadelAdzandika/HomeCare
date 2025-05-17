@@ -46,8 +46,8 @@
           <img src="{{ asset('images/hero.jpg') }}" alt="Homecare" class="img-fluid rounded-20 shadow hero-img">
         </div>
         <div class="col-lg-6 order-lg-1">
-            <h1 class="display-4 fw-bold mb-3 text-black" >CAREGIVER</h1>
-            <p class="lead mb-4 text-black text-justify">Di tengah kesibukan dan tuntutan zaman, kehadiran caregiver bukan hanya menjadi kebutuhan, 
+            <h1 class="display-4 fw-bold mb-3 text-white" >CAREGIVER</h1>
+            <p class="lead mb-4 text-white text-justify">Di tengah kesibukan dan tuntutan zaman, kehadiran caregiver bukan hanya menjadi kebutuhan, 
                 namun solusi nyata untuk memastikan orang-orang terkasih mendapatkan perawatan terbaik.</p>
             <div class="mb-4">
             <span class="badge bg-success me-3 px-3 py-2">Cepat</span>
@@ -87,7 +87,6 @@
               <ul class="list-unstyled">
               <li><b>Telepon:</b> 0856-4108-9399</li>
               <li><b>Email:</b> hayatirawatrumahindonesia@gmail.com</li>
-              <li><b>Alamat:</b> JL Alamat Lengkap Jakarta</li>
               </ul>
               <a href="mailto:hayatirawatrumahindonesia@gmail.com" class="btn btn-primary mb-3">Hubungi Kami</a>
               <hr class="my-4">
@@ -176,13 +175,12 @@
           <ul class="list-unstyled">
             <li><b>Telepon:</b> 0856-4108-9399</li>
             <li><b>Email:</b> hayatirawatrumahindonesia@gmail.com</li>
-            <li><b>Alamat:</b> JL Alamat Lengkap Jakarta</li>
           </ul>
         </div>
       </div>
       <hr class="my-4 text-white">
       <div class="text-center">
-        <p class="mb-0">&copy; 2024 HomeCare. All Rights Reserved.</p>
+        <p class="mb-0">&copy; 2025 HayatiCare. All Rights Reserved.</p>
       </div>
     </div>
   </footer>

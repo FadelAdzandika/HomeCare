@@ -46,8 +46,9 @@
           <img src="{{ asset('images/hero.jpg') }}" alt="Homecare" class="img-fluid rounded-20 shadow hero-img">
         </div>
         <div class="col-lg-6 order-lg-1">
-            <h1 class="display-4 fw-bold mb-3 text-white" >HOME CARE</h1>
-            <p class="lead mb-4 text-white text-justify">Kami percaya, perawatan terbaik adalah perawatan yang diberikan di tempat yang paling nyaman: rumah Anda sendiri. Kami hadir memberikan layanan Home Care profesional yang mengutamakan kenyamanan, keselamatan, dan ketulusan dalam setiap layanan.</p>
+            <h1 class="display-4 fw-bold mb-3 text-white" >BABYSITTER</h1>
+            <p class="lead mb-4 text-white text-justify">Menemukan pengasuh anak yang tepat bukanlah perkara mudah. Anda membutuhkan seseorang yang bukan hanya mampu merawat, tapi juga memberikan rasa aman, nyaman, dan kasih sayang seperti keluarga sendiri.
+kami hadir memberikan layanan Baby Sitter profesional yang telah terlatih, berpengalaman, dan memiliki pendekatan personal dalam merawat si kecil.</p>
             <div class="mb-4">
             <span class="badge bg-success me-3 px-3 py-2">Cepat</span>
             <span class="badge bg-primary me-3 px-3 py-2">Legal</span>
@@ -60,54 +61,20 @@
     </div>
   </section>
 
-  <!-- SECTION LAYANAN HOME CARE -->
-  <section class="py-5" id="layanan-homecare" style="border-top: 2px solid #ddd;">
-    <div class="container">
-      <h3 class="fw-bold section-title mb-4">LAYANAN HOME CARE</h3>
-      <div class="row g-4">
-        <!-- Rawat Medis -->
-        <div class="col-md-6 col-lg-3">
-          <div class="card shadow-sm border-0 rounded-20 h-100">
-            <div class="card-body text-center">
-              <h5 class="card-title fw-bold">Home Care Lansia</h5>
-              <p class="card-text">Perawatan harian, pendampingan aktivitas, terapi ringan.</p>
-              <a href="#" class="btn btn-primary btn-sm">Pesan Sekarang</a>
-            </div>
-          </div>
-        </div>
-        <!-- Rawat Orang Sakit -->
-        <div class="col-md-6 col-lg-3">
-          <div class="card shadow-sm border-0 rounded-20 h-100">
-            <div class="card-body text-center">
-              <h5 class="card-title fw-bold">Perawatan Pasca Rawat Inap</h5>
-              <p class="card-text">Perawatan luka, rehabilitasi ringan, pengawasan kesehatan.</p>
-              <a href="#" class="btn btn-primary btn-sm">Pesan Sekarang</a>
-            </div>
-          </div>
-        </div>
-        <!-- Rawat Jaga di RS -->
-        <div class="col-md-6 col-lg-3">
-          <div class="card shadow-sm border-0 rounded-20 h-100">
-            <div class="card-body text-center">
-              <h5 class="card-title fw-bold">Home Care Disabilitas</h5>
-              <p class="card-text">endampingan aktivitas, terapi, dan dukungan emosional.</p>
-              <a href="#" class="btn btn-primary btn-sm">Pesan Sekarang</a>
-            </div>
-          </div>
-        </div>
-        <!-- Rawat Lansia -->
-        <div class="col-md-6 col-lg-3">
-          <div class="card shadow-sm border-0 rounded-20 h-100">
-            <div class="card-body text-center">
-              <h5 class="card-title fw-bold">Home Visit oleh Tenaga Medis</h5>
-              <p class="card-text">Dokter, perawat, atau fisioterapis yang datang ke rumah anda.</p>
-              <a href="#" class="btn btn-primary btn-sm">Pesan Sekarang</a>
-            </div>
-          </div>
-        </div>
-      </div>
+<!-- SECTION LAYANAN UNGGULAN KAMI -->
+<section class="py-5" id="layanan-art">
+  <div class="container">
+    <div class="bg-white rounded-20 shadow-sm p-4">
+      <h3 class="fw-bold text-center section-title mb-4">Layanan Unggulan Kami</h3>
+      <ul class="fs-5" style="list-style: disc; padding-left: 1.3em;">
+        <li><b>Bantuan Harian Rumah Tangga:</b> Membersihkan rumah, mencuci pakaian, menyetrika, dan menjaga kerapihan rumah secara menyeluruh.</li>
+        <li><b>Pendampingan Anak atau Lansia:</b> Membantu mengawasi anak-anak atau mendampingi lansia dalam aktivitas harian ringan.</li>
+        <li><b>Memasak dan Menyiapkan Makanan:</b> Menyajikan makanan sehat dan bersih sesuai kebutuhan keluarga.</li>
+        <li><b>ART Terlatih dan Terpercaya:</b> Setiap tenaga ART telah melalui proses seleksi dan pelatihan untuk menjamin profesionalitas dan keamanan layanan.</li>
+      </ul>
     </div>
-  </section>
+  </div>
+</section>
 
   <!-- SECTION KONTAK KAMI -->
   <section class="py-5" id="kontak" style="border-top: 2px solid #ddd;">
@@ -179,10 +146,9 @@
                 window.open(whatsappWebURL, '_blank');
             }
         </script>
-
-              </div>
-          </div>
-    </section>
+      </div>
+    </div>
+  </section>
 
   <!-- FOOTER -->
   <footer class="bg-blue text-white py-5">

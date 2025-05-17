@@ -46,8 +46,8 @@
           <img src="{{ asset('images/hero.jpg') }}" alt="Homecare" class="img-fluid rounded-20 shadow hero-img">
         </div>
         <div class="col-lg-6 order-lg-1">
-            <h1 class="display-4 fw-bold mb-3 text-black" >BABYSITTER</h1>
-            <p class="lead mb-4 text-black text-justify">Menemukan pengasuh anak yang tepat bukanlah perkara mudah. Anda membutuhkan seseorang yang bukan hanya mampu merawat, tapi juga memberikan rasa aman, nyaman, dan kasih sayang seperti keluarga sendiri.
+            <h1 class="display-4 fw-bold mb-3 text-white" >BABYSITTER</h1>
+            <p class="lead mb-4 text-white text-justify">Menemukan pengasuh anak yang tepat bukanlah perkara mudah. Anda membutuhkan seseorang yang bukan hanya mampu merawat, tapi juga memberikan rasa aman, nyaman, dan kasih sayang seperti keluarga sendiri.
 kami hadir memberikan layanan Baby Sitter profesional yang telah terlatih, berpengalaman, dan memiliki pendekatan personal dalam merawat si kecil.</p>
             <div class="mb-4">
             <span class="badge bg-success me-3 px-3 py-2">Cepat</span>
@@ -84,11 +84,9 @@ kami hadir memberikan layanan Baby Sitter profesional yang telah terlatih, berpe
       <!-- Baby Sitter Harian -->
       <div class="col-md-6 col-lg-3">
         <div class="card shadow-sm border-0 rounded-20 h-100">
-          <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Baby Sitter Harian">
           <div class="card-body text-center">
             <h5 class="card-title fw-bold">Baby Sitter Harian/Mingguan/Bulanan</h5>
             <p class="card-text">Pilihan layanan sesuai kebutuhan keluarga Anda.</p>
-            <p class="fw-bold text-primary">Rp. 0</p>
             <a href="#kontak" class="btn btn-primary btn-sm">Pesan Sekarang</a>
           </div>
         </div>
@@ -96,11 +94,9 @@ kami hadir memberikan layanan Baby Sitter profesional yang telah terlatih, berpe
       <!-- Baby Sitter Bayi Baru Lahir -->
       <div class="col-md-6 col-lg-3">
         <div class="card shadow-sm border-0 rounded-20 h-100">
-          <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Baby Sitter Bayi Baru Lahir">
           <div class="card-body text-center">
             <h5 class="card-title fw-bold">Baby Sitter Bayi Baru Lahir - Balita</h5>
             <p class="card-text">Pengasuhan dari newborn sampai balita.</p>
-            <p class="fw-bold text-primary">Rp. 0</p>
             <a href="#kontak" class="btn btn-primary btn-sm">Pesan Sekarang</a>
           </div>
         </div>
@@ -108,11 +104,9 @@ kami hadir memberikan layanan Baby Sitter profesional yang telah terlatih, berpe
       <!-- Baby Sitter Stimulasi & Edukasi -->
       <div class="col-md-6 col-lg-3">
         <div class="card shadow-sm border-0 rounded-20 h-100">
-          <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Stimulasi & Edukasi Anak">
           <div class="card-body text-center">
             <h5 class="card-title fw-bold">Stimulasi & Edukasi Anak</h5>
             <p class="card-text">Pendampingan stimulasi & edukasi untuk tumbuh kembang optimal.</p>
-            <p class="fw-bold text-primary">Rp. 0</p>
             <a href="#kontak" class="btn btn-primary btn-sm">Pesan Sekarang</a>
           </div>
         </div>
@@ -120,11 +114,9 @@ kami hadir memberikan layanan Baby Sitter profesional yang telah terlatih, berpe
       <!-- Baby Sitter Kebutuhan Khusus -->
       <div class="col-md-6 col-lg-3">
         <div class="card shadow-sm border-0 rounded-20 h-100">
-          <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Baby Sitter Kebutuhan Khusus">
           <div class="card-body text-center">
             <h5 class="card-title fw-bold">Baby Sitter Kebutuhan Khusus</h5>
             <p class="card-text">Untuk autisme, disabilitas, dan kebutuhan khusus lainnya.</p>
-            <p class="fw-bold text-primary">Rp. 0</p>
             <a href="#kontak" class="btn btn-primary btn-sm">Pesan Sekarang</a>
           </div>
         </div>
@@ -145,7 +137,6 @@ kami hadir memberikan layanan Baby Sitter profesional yang telah terlatih, berpe
               <ul class="list-unstyled">
               <li><b>Telepon:</b> 0856-4108-9399</li>
               <li><b>Email:</b> hayatirawatrumahindonesia@gmail.com</li>
-              <li><b>Alamat:</b> JL Alamat Lengkap Jakarta</li>
               </ul>
               <a href="mailto:hayatirawatrumahindonesia@gmail.com" class="btn btn-primary mb-3">Hubungi Kami</a>
               <hr class="my-4">
@@ -233,13 +224,12 @@ kami hadir memberikan layanan Baby Sitter profesional yang telah terlatih, berpe
           <ul class="list-unstyled">
             <li><b>Telepon:</b> 0856-4108-9399</li>
             <li><b>Email:</b> hayatirawatrumahindonesia@gmail.com</li>
-            <li><b>Alamat:</b> JL Alamat Lengkap Jakarta</li>
           </ul>
         </div>
       </div>
       <hr class="my-4 text-white">
       <div class="text-center">
-        <p class="mb-0">&copy; 2024 HomeCare. All Rights Reserved.</p>
+        <p class="mb-0">&copy; 2025 HayatiCare. All Rights Reserved.</p>
       </div>
     </div>
   </footer>

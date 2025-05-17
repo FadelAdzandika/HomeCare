@@ -7,3 +7,4 @@ Route::get('/views/dashboard', function () { return view('dashboard'); })->name(
 Route::get('/views/caregiver', function () { return view('caregiver'); })->name('views/caregiver');
 Route::get('/views/homecare', function () { return view('homecare'); })->name('views/homecare');
 Route::get('/views/babysitter', function () { return view('babysitter'); })->name('views/babysitter');
+Route::get('/views/asisten', function () { return view('asisten'); })->name('views/asisten');

@@ -47,7 +47,7 @@
         </div>
         <div class="col-lg-6 order-lg-1">
             <h1 class="display-4 fw-bold mb-3 text-white">Solusi Terbaik untuk Keluarga Anda</h1>
-            <p class="lead mb-4 text-white">Butuh Perawat Lansia, Babysitter, atau ART yang Terlatih dan Amanah?<br>
+            <p class="lead mb-4 text-white text-justify">Butuh Perawat Lansia, Babysitter, atau ART yang Terlatih dan Amanah?<br>
             Kami hadir memberikan layanan Home Care & Penyalur Tenaga Profesional ke Rumah Anda.</p>
             <div class="mb-4">
             <span class="badge bg-success me-3 px-3 py-2">Cepat</span>
@@ -95,11 +95,9 @@
         <!-- Perawat & Bidan Home Care -->
         <div class="col-md-6 col-lg-3">
           <div class="card shadow-sm border-0 rounded-20 h-100">
-            <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Perawat & Bidan Home Care">
             <div class="card-body text-center">
               <h5 class="card-title fw-bold">Perawat & Bidan Home Care</h5>
               <p class="card-text">Layanan kesehatan di rumah oleh perawat atau bidan profesional.</p>
-              <p class="fw-bold text-primary">Rp. 0</p>
               <a href="{{route('views/homecare')}}" class="btn btn-primary btn-sm">Detail</a>
             </div>
           </div>
@@ -107,11 +105,9 @@
         <!-- Caregiver -->
         <div class="col-md-6 col-lg-3">
           <div class="card shadow-sm border-0 rounded-20 h-100">
-            <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Caregiver">
             <div class="card-body text-center">
               <h5 class="card-title fw-bold">Caregiver</h5>
               <p class="card-text">Pendamping aktivitas harian untuk pasien atau lansia.</p>
-              <p class="fw-bold text-primary">Rp. 0</p>
               <a href="{{route('views/caregiver')}}" class="btn btn-primary btn-sm">Detail</a>
             </div>
           </div>
@@ -119,11 +115,9 @@
         <!-- Babysitter -->
         <div class="col-md-6 col-lg-3">
           <div class="card shadow-sm border-0 rounded-20 h-100">
-            <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Babysitter">
             <div class="card-body text-center">
               <h5 class="card-title fw-bold">Babysitter</h5>
               <p class="card-text">Tenaga profesional untuk menjaga dan merawat anak Anda.</p>
-              <p class="fw-bold text-primary">Rp. 0</p>
               <a href="{{route('views/babysitter')}}" class="btn btn-primary btn-sm">Detail</a>
             </div>
           </div>
@@ -131,69 +125,10 @@
         <!-- Asisten Rumah Tangga -->
         <div class="col-md-6 col-lg-3">
           <div class="card shadow-sm border-0 rounded-20 h-100">
-            <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Asisten Rumah Tangga">
             <div class="card-body text-center">
               <h5 class="card-title fw-bold">Asisten Rumah Tangga</h5>
               <p class="card-text">Layanan ART untuk membantu pekerjaan rumah tangga Anda.</p>
-              <p class="fw-bold text-primary">Rp. 0</p>
-              <a href="#" class="btn btn-primary btn-sm">Detail</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- SECTION LAYANAN HOME CARE -->
-  <section class="py-5" id="layanan-homecare" style="border-top: 2px solid #ddd;">
-    <div class="container">
-      <h3 class="fw-bold section-title mb-4">LAYANAN HOME CARE</h3>
-      <div class="row g-4">
-        <!-- Rawat Medis -->
-        <div class="col-md-6 col-lg-3">
-          <div class="card shadow-sm border-0 rounded-20 h-100">
-            <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Rawat Medis">
-            <div class="card-body text-center">
-              <h5 class="card-title fw-bold">Rawat Medis</h5>
-              <p class="card-text">Layanan perawatan medis di rumah oleh tenaga kesehatan profesional.</p>
-              <p class="fw-bold text-primary">Rp. 0</p>
-              <a href="#" class="btn btn-primary btn-sm">Detail</a>
-            </div>
-          </div>
-        </div>
-        <!-- Rawat Orang Sakit -->
-        <div class="col-md-6 col-lg-3">
-          <div class="card shadow-sm border-0 rounded-20 h-100">
-            <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Rawat Orang Sakit">
-            <div class="card-body text-center">
-              <h5 class="card-title fw-bold">Rawat Orang Sakit</h5>
-              <p class="card-text">Pendampingan dan perawatan untuk pasien yang sedang sakit.</p>
-              <p class="fw-bold text-primary">Rp. 0</p>
-              <a href="#" class="btn btn-primary btn-sm">Detail</a>
-            </div>
-          </div>
-        </div>
-        <!-- Rawat Jaga di RS -->
-        <div class="col-md-6 col-lg-3">
-          <div class="card shadow-sm border-0 rounded-20 h-100">
-            <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Rawat Jaga di RS">
-            <div class="card-body text-center">
-              <h5 class="card-title fw-bold">Rawat Jaga di Rumah Sakit</h5>
-              <p class="card-text">Layanan pendampingan pasien selama dirawat di rumah sakit.</p>
-              <p class="fw-bold text-primary">Rp. 0</p>
-              <a href="#" class="btn btn-primary btn-sm">Detail</a>
-            </div>
-          </div>
-        </div>
-        <!-- Rawat Lansia -->
-        <div class="col-md-6 col-lg-3">
-          <div class="card shadow-sm border-0 rounded-20 h-100">
-            <img src="https://via.placeholder.com/300x200" class="card-img-top rounded-top" alt="Rawat Lansia">
-            <div class="card-body text-center">
-              <h5 class="card-title fw-bold">Rawat Lansia</h5>
-              <p class="card-text">Perawatan khusus untuk lansia dengan kebutuhan tertentu.</p>
-              <p class="fw-bold text-primary">Rp. 0</p>
-              <a href="#" class="btn btn-primary btn-sm">Detail</a>
+              <a href="{{route('views/asisten')}}" class="btn btn-primary btn-sm">Detail</a>
             </div>
           </div>
         </div>
@@ -212,7 +147,6 @@
               <ul class="list-unstyled">
               <li><b>Telepon:</b> 0856-4108-9399</li>
               <li><b>Email:</b> hayatirawatrumahindonesia@gmail.com</li>
-              <li><b>Alamat:</b> JL Alamat Lengkap Jakarta</li>
               </ul>
               <a href="mailto:hayatirawatrumahindonesia@gmail.com" class="btn btn-primary mb-3">Hubungi Kami</a>
               <hr class="my-4">
@@ -301,13 +235,12 @@
           <ul class="list-unstyled">
             <li><b>Telepon:</b> 0856-4108-9399</li>
             <li><b>Email:</b> hayatirawatrumahindonesia@gmail.com</li>
-            <li><b>Alamat:</b> JL Alamat Lengkap Jakarta</li>
           </ul>
         </div>
       </div>
       <hr class="my-4 text-white">
       <div class="text-center">
-        <p class="mb-0">&copy; 2024 HomeCare. All Rights Reserved.</p>
+        <p class="mb-0">&copy; 2025 HayatiCare. All Rights Reserved.</p>
       </div>
     </div>
   </footer>
